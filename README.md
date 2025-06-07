@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-<img src="https://github.com/robbowland/robbowland/blob/main/img/heading.svg?raw=true" alt="robbowland" width="850"></a>
+<img src="https://github.com/robbowland/robbowland/blob/main/img/heading.svg?raw=true" alt="robbowland" width="700"></a>
   <br>
 </h1>
 
